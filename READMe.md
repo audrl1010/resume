@@ -25,7 +25,7 @@
 
 <br>
 
-## 프로젝트
+## 회사 프로젝트
 
 ### 아임홈
 
@@ -75,6 +75,8 @@
 - [AppStore](https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%B6%88%ED%8E%B8%EC%8B%A0%EA%B3%A0/id547521233)
 
 <img src="images/ssr1.png" width="160"/> <img src="images/ssr2.png" width="160"/> <img src="images/ssr3.png" width="160"/> <img src="images/ssr4.png" width="160"/>
+
+## 개인 프로젝트
 
 ### 중소기업 중앙회 임직원
 
@@ -140,8 +142,7 @@
 - Texture
 - WebKit
 - Realm
-- Firebase
-- Fabric Crashlytics
+- Firebase(analytics, adb, sms, push notification)
 - naver SDK(map, login)
 - kakao SDK(login)
 - facebook SDK(login)
