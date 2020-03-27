@@ -34,7 +34,7 @@
 - 기간 : 2020.01 ~ 2020.03
 - 내용 : iOS 개발 및 서비스
 - 참여도: 100%
-- 사용기술 : iOS, Swift, RxSwift, RxCocoam RxDataSources, RIBs, Texture, ReactorKit, FCM, Moya
+- 사용기술 : iOS, Swift, RxSwift, RxCocoa, RxDataSources, RIBs, Texture, ReactorKit, FCM, Moya
 - [AppStore](https://apps.apple.com/kr/app/)
 
 <img src="images/aimhome1.png" width="160"/> <img src="images/aimhome2.png" width="160"/> <img src="images/aimhome3.png" width="160"/> <img src="images/aimhome4.png" width="160"/> <img src="images/aimhome5.png" width="160"/>
@@ -43,7 +43,7 @@
 
 - 소개 : 크로키 미술 서비스
 - 소속 : 누림
-- 기간 : 2019.11 ~ 2020.01
+- 기간 : 2019.10 ~ 2020.12
 - 내용 : React Native iOS, Android 개발
 - 참여도: 100%
 - 사용기술 : javascript, react-navigation, redux, saga, firebase(analytics, admob), axios, styled-components
