@@ -3,7 +3,7 @@
 - Email: audrl1010@naver.com
 - Github: https://github.com/audrl1010@naver.com
 - blog: https://medium.com/@audrl1010
-
+- Phone: 01025421894
 <br>
 
 ## 경력사항
