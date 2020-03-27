@@ -36,8 +36,20 @@
 - 참여도: 100%
 - 사용기술 : iOS, Swift, RxSwift, RxCocoam RxDataSources, RIBs, Texture, ReactorKit, FCM, Moya
 - AppStore :
-  iOS
-  <img src="images/omi1.jpg" width="160"/> <img src="images/omi2.jpg" width="160"/> <img src="images/omi3.jpg" width="160"/> <img src="images/omi4.jpg" width="160"/>
+
+<img src="images/aimhome1.png" width="160"/> <img src="images/aimhome2.png" width="160"/> <img src="images/aimhome3.png" width="160"/> <img src="images/aimhome4.png" width="160"/> <img src="images/aimhome5.png" width="160"/>
+
+### 파스타
+
+- 소개 : 크로키 미술 서비스
+- 소속 : 셀리
+- 기간 : 2019.11 ~ 2020.01
+- 내용 : React Native iOS, Android 개발
+- 참여도: 100%
+- 사용기술 : javascript, react-navigation, redux, saga, firebase(analytics, admob), axios, styled-components
+- AppStore : https://apps.apple.com/kr/app/%EC%9B%90%EB%AF%B8%EB%8B%9B-1%EB%B6%84-%EC%95%88%EC%97%90-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1-1mean-it/id1445510118
+
+<img src="images/fasta1.png" width="160"/> <img src="images/fasta2.png" width="160"/> <img src="images/fasta3.png" width="160"/> <img src="images/fasta4.png" width="160"/> <img src="images/fasta5.png" width="160"/>
 
 ### 원미닛
 
@@ -49,7 +61,7 @@
 - 사용기술 : iOS, Swift, RxSwift, RxCocoa, RxDataSources, SnapKit, ReactorKit, PureDI, FCM, Moya, Hero, Google adb, Kingfisher
 - AppStore : https://apps.apple.com/kr/app/%EC%9B%90%EB%AF%B8%EB%8B%9B-1%EB%B6%84-%EC%95%88%EC%97%90-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1-1mean-it/id1445510118
 
-<img src="images/aimhome1.png" width="160"/> <img src="images/aimhome2.png" width="160"/> <img src="images/aimhome3.png" width="160"/> <img src="images/aimhome4.png" width="160"/> <img src="images/aimhome5.png" width="160"/>
+<img src="images/omi1.jpg" width="160"/> <img src="images/omi2.jpg" width="160"/> <img src="images/omi3.jpg" width="160"/> <img src="images/omi4.jpg" width="160"/>
 
 ### 스마트불편신고
 
