@@ -31,7 +31,7 @@
 ### 아임홈
 
 - 소개: 나만의 공간을 인테리어할 수 있는 앱, 인테리어 소품 배치, 공간의 도배 및 페인트 정보를 받을 수 있는 서비스
-- 참여: 100%
+- 소속 : 누림
 - 역할: iOS 개발
 - 개발환경: Xcode
 - 사용기술: Swift, RxSwift, SnapKit, RIBs, Texture, ReactorKit, Firebase, Moya, R.swift, TinyCrayon, Cocopods
@@ -59,7 +59,7 @@
 ### 파스타
 
 - 소개: 크로키 미술 서비스
-- 참여: 100%
+- 소속 : 누림
 - 역할: React Native(iOS, Android) 앱 개발
 - 개발환경: Visual Studio Code
 - 사용기술: react-navigation, redux, saga, firebase, axios, styled-components, react-native-iap
@@ -79,7 +79,7 @@
 ### 원미닛
 
 - 소개: 원미닛은 자신만의 색깔과 스타일을 갖는 미니앱을 만들어 개인 및 기업이 자신들의 소식을 공유하고 사람들과 연결할 수 있는 플랫폼입니다.
-- 참여: 100%
+- 소속 : 셀리
 - 역할: iOS 개발
 - 개발환경: Xcode
 - 사용기술: Swift, RxSwift, ReactorKit, SnapKit, PureDI, Moya, Hero, Google adb, Kingfisher, Cocoapods
@@ -103,15 +103,10 @@
 - 내용 : iOS 개발 및 서비스
 - 사용자 유저: 20만명
 - 사용기술: Swift, NaverMaps
-- 개선사항:
-  - 오픈 소스에 배포하였고, 실제 이 라이브러리를 프로젝트에 적용하였습니다.
-  - 차량 신고기능을 개발
 - 수행업무:
-
   - 차량 과태료 부과 신고 기능
   - 불편신고 기능 신고 기능
   - 유지보수
-
 - 개선사항:
   - 기존 Objective-C 코드를 모두 Swift 코드로 이관하여 유지보수성을 높였습니다.
   - 당시 Slide Menu 라이브러리가 Swift로 구축된 라이브러리가 많이 없어, Swift를 사용하여 Slide Menu 라이브러리를 만들어 Swift를 사용하여 Slide Menu 라이브러리를 만들어 오픈 소스에 배포하였고, 실제 이 라이브러리를 프로젝트에 적용하였습니다.
