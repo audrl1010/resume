@@ -33,6 +33,7 @@
 - 소개: 나만의 공간을 인테리어할 수 있는 앱, 인테리어 소품 배치, 공간의 도배 및 페인트 정보를 받을 수 있는 서비스
 - <img src="images/aimhome1.png" width="160"/> <img src="images/aimhome2.png" width="160"/> <img src="images/aimhome3.png" width="160"/> <img src="images/aimhome4.png" width="160"/> <img src="images/aimhome5.png" width="160"/>
 - 소속 : 누림
+- 기간: 2020.01 ~ 2020.03
 - 역할: iOS 개발
 - 개발환경: Xcode
 - 사용기술: Swift, RxSwift, SnapKit, RIBs, Texture, ReactorKit, Firebase, Moya, R.swift, TinyCrayon, Cocopods
@@ -53,13 +54,13 @@
   - image, font 등을 불러올 때 수동으로 문자열을 작성하기 때문에 잘못 작성 시 크래쉬가 나는 상황을 줄이기 위해
     R.swift를 사용하여 build시에 image, font, colors, localizable string와 같은 것들을 자동으로 상수화 시키도록 하여
     크래쉬를 없애 안전성을 높였습니다.
-- [AppStore](https://apps.apple.com/kr/app/)
 
 ### 파스타
 
-- 소개: 크로키 미술 서비스
+- 소개: 크로키 그리기 미술 교육 서비스
 - <img src="images/fasta1.png" width="160"/> <img src="images/fasta2.png" width="160"/> <img src="images/fasta3.png" width="160"/> <img src="images/fasta4.png" width="160"/> <img src="images/fasta5.png" width="160"/>
 - 소속 : 누림
+- 기간 : 2019.10 ~ 2019.12
 - 역할: React Native(iOS, Android) 앱 개발
 - 개발환경: Visual Studio Code
 - 사용기술: react-navigation, redux, saga, firebase, axios, styled-components, react-native-iap
@@ -79,6 +80,7 @@
 - 소개: 원미닛은 자신만의 색깔과 스타일을 갖는 미니앱을 만들어 개인 및 기업이 자신들의 소식을 공유하고 사람들과 연결할 수 있는 플랫폼입니다.
 - <img src="images/omi1.jpg" width="160"/> <img src="images/omi2.jpg" width="160"/> <img src="images/omi3.jpg" width="160"/> <img src="images/omi4.jpg" width="160"/>
 - 소속 : 셀리
+- 기간 : 2018.04 ~ 2019.06
 - 역할: iOS 개발
 - 개발환경: Xcode
 - 사용기술: Swift, RxSwift, ReactorKit, SnapKit, PureDI, Moya, Hero, Google adb, Kingfisher, Cocoapods
