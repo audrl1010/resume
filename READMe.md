@@ -31,6 +31,7 @@
 ### 아임홈
 
 - 소개: 나만의 공간을 인테리어할 수 있는 앱, 인테리어 소품 배치, 공간의 도배 및 페인트 정보를 받을 수 있는 서비스
+- <img src="images/aimhome1.png" width="160"/> <img src="images/aimhome2.png" width="160"/> <img src="images/aimhome3.png" width="160"/> <img src="images/aimhome4.png" width="160"/> <img src="images/aimhome5.png" width="160"/>
 - 소속 : 누림
 - 역할: iOS 개발
 - 개발환경: Xcode
@@ -54,11 +55,10 @@
     크래쉬를 없애 안전성을 높였습니다.
 - [AppStore](https://apps.apple.com/kr/app/)
 
-<img src="images/aimhome1.png" width="160"/> <img src="images/aimhome2.png" width="160"/> <img src="images/aimhome3.png" width="160"/> <img src="images/aimhome4.png" width="160"/> <img src="images/aimhome5.png" width="160"/>
-
 ### 파스타
 
 - 소개: 크로키 미술 서비스
+- <img src="images/fasta1.png" width="160"/> <img src="images/fasta2.png" width="160"/> <img src="images/fasta3.png" width="160"/> <img src="images/fasta4.png" width="160"/> <img src="images/fasta5.png" width="160"/>
 - 소속 : 누림
 - 역할: React Native(iOS, Android) 앱 개발
 - 개발환경: Visual Studio Code
@@ -74,11 +74,10 @@
   - 기존 소스의 javascript를 typescript로 변환하여 type에 따른 버그들을 줄여 개발 시 안전성을 높였습니다.
 - [AppStore](https://apps.apple.com/kr/app/fasta-croquis-and-drawing/id1445639082)
 
-<img src="images/fasta1.png" width="160"/> <img src="images/fasta2.png" width="160"/> <img src="images/fasta3.png" width="160"/> <img src="images/fasta4.png" width="160"/> <img src="images/fasta5.png" width="160"/>
-
 ### 원미닛
 
 - 소개: 원미닛은 자신만의 색깔과 스타일을 갖는 미니앱을 만들어 개인 및 기업이 자신들의 소식을 공유하고 사람들과 연결할 수 있는 플랫폼입니다.
+- <img src="images/omi1.jpg" width="160"/> <img src="images/omi2.jpg" width="160"/> <img src="images/omi3.jpg" width="160"/> <img src="images/omi4.jpg" width="160"/>
 - 소속 : 셀리
 - 역할: iOS 개발
 - 개발환경: Xcode
@@ -93,11 +92,10 @@
   - ReactorKit을 도입하여 표준화된 아키텍처를 갖춰 향후 개발자 간의 커뮤니케이션과 유지 보수성을 높였습니다.
 - [해당 앱 스토어에서 보기](https://apps.apple.com/kr/app/%EC%9B%90%EB%AF%B8%EB%8B%9B-1%EB%B6%84-%EC%95%88%EC%97%90-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1-1mean-it/id1445510118)
 
-<img src="images/omi1.jpg" width="160"/> <img src="images/omi2.jpg" width="160"/> <img src="images/omi3.jpg" width="160"/> <img src="images/omi4.jpg" width="160"/>
-
 ### 스마트불편신고
 
 - 소개 : 서울특별시 시민들이 생활중에 느끼는 각종 불편사항을 스마트폰으로 언제, 어디서나 신고하여 민원처리를 할 수 있는 앱 입니다.
+- <img src="images/ssr1.png" width="160"/> <img src="images/ssr2.png" width="160"/> <img src="images/ssr3.png" width="160"/> <img src="images/ssr4.png" width="160"/>
 - 소속 : 그루기술
 - 기간 : 2017.02 ~ 2018.02
 - 내용 : iOS 개발 및 서비스
@@ -112,13 +110,12 @@
   - 당시 Slide Menu 라이브러리가 Swift로 구축된 라이브러리가 많이 없어, Swift를 사용하여 Slide Menu 라이브러리를 만들어 Swift를 사용하여 Slide Menu 라이브러리를 만들어 오픈 소스에 배포하였고, 실제 이 라이브러리를 프로젝트에 적용하였습니다.
 - [AppStore](https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%B6%88%ED%8E%B8%EC%8B%A0%EA%B3%A0/id547521233)
 
-<img src="images/ssr1.png" width="160"/> <img src="images/ssr2.png" width="160"/> <img src="images/ssr3.png" width="160"/> <img src="images/ssr4.png" width="160"/>
-
 ## 개인 프로젝트
 
 ### 중소기업 중앙회 임직원
 
 - 소개 : 중소기업 중앙회 임직원 전용 수첩 앱
+- <img src="images/diary1.jpg" width="160"/> <img src="images/diary2.jpg" width="160"/>s
 - 소속 : 개인외주
 - 기간 : 2016.11 ~ 2016.12
 - 내용 : iOS 개발 및 서비스
@@ -129,8 +126,6 @@
   - Push 기능 개발
   - 유지보수
 - [AppStore](https://apps.apple.com/kr/app/kbiz-%EC%A4%91%EC%86%8C%EA%B8%B0%EC%97%85%EC%A4%91%EC%95%99%ED%9A%8C-%ED%9A%8C%EC%9B%90%EC%88%98%EC%B2%A9/id1070529143)
-
-<img src="images/diary1.jpg" width="160"/> <img src="images/diary2.jpg" width="160"/>
 
 <br>
 
