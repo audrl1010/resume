@@ -3,7 +3,6 @@
 - Email: audrl1010@naver.com
 - Github: https://github.com/audrl1010@naver.com
 - Blog: https://medium.com/@audrl1010
-- Phone: 010-2542-1894
 
 <br>
 
@@ -11,12 +10,12 @@
 
 ### 뷰링
 
-- 기간: 2020.05 ~
-- 내용: 뷰티 e-commerce 서비스 iOS 개발
+- 기간: 2020.05 ~ (현재)
+- 내용: 동영상 리뷰 e-commerce 서비스 iOS 개발
 
 ### 누림
 
-- 기간: 2019.06 ~
+- 기간: 2019.06 ~ 2019.04
 - 내용: iOS, React Native 개발 및 서비스
 
 ### 셀리
@@ -33,6 +32,28 @@
 
 ## 회사 프로젝트
 
+### 볼터치
+
+- 소개: 동영상 리뷰 쇼핑 커머스
+- <img src="images/boltouch1.png" width="160"/> <img src="images/boltouch2.png" width="160"/> <img src="images/boltouch3.png" width="160"/> <img src="images/boltouch4.png" width="160"/> <img src="images/boltouch5.png" width="160"/>
+- 소속: 뷰링
+- 기간: 2020.05 ~ (현재)
+- 역할: iOS 개발
+- 개발환경: Xcode
+- 사용기술: Swift, RxSwift, RIBs, Texture, ReactorKit, Firebase, Moya, R.swift, Xcodegen
+- 대표 수행 업무:
+
+  - 동영상 편집 기능 개발
+  - 동영상 업로더 개발
+  - 동영상 플레이어 개발
+  - 유튜브 플레이어 개발
+  - e-커머스(결제, 주문, 상품, 장바구니...etc) 개발
+  - 통합 검색 개발
+
+- 개선사항:
+  - 디자인 시스템을 도입하여 UI 개발 생산성을 비약적으로 향상 시켰습니다.
+  - 모든 유틸리티는 유닛 테스트를 반드시 작성하였고, 테스트가 반드시 필요한 결제, 주문 기능에서는 단위 테스트, 통합 테스트를 작성하여 서비스의 안전성을 높였습니다.
+
 ### 아임홈
 
 - 소개: 나만의 공간을 인테리어할 수 있는 앱, 인테리어 소품 배치, 공간의 도배 및 페인트 정보를 받을 수 있는 서비스
@@ -42,7 +63,7 @@
 - 역할: iOS 개발
 - 개발환경: Xcode
 - 사용기술: Swift, RxSwift, SnapKit, RIBs, Texture, ReactorKit, Firebase, Moya, R.swift, TinyCrayon, Cocopods
-- 수행업무:
+- 대표 수행 업무:
 
   - Custom Camera 기능
   - 공간의 특정 영역 지정 시 도배, 페인트 정보 제공 기능
@@ -69,7 +90,7 @@
 - 역할: React Native(iOS, Android) 앱 개발
 - 개발환경: Visual Studio Code
 - 사용기술: react-navigation, redux, saga, firebase, axios, styled-components, react-native-iap
-- 수행업무:
+- 대표 수행 업무:
 
   - ios, android의 iap(인앱 결제) 기능
   - 구독되지 않은 회원이 크로키 player를 실행 시 구글 보상형 광고 활성화 기능
@@ -110,7 +131,7 @@
 - 내용 : iOS 개발 및 서비스
 - 사용자 유저: 20만명
 - 사용기술: Swift, NaverMaps
-- 수행업무:
+- 대표 수행 업무:
   - 차량 과태료 부과 신고 기능
   - 불편신고 기능 신고 기능
   - 유지보수
@@ -130,7 +151,7 @@
 - 내용 : iOS 개발 및 서비스
 - 참여도: 100%
 - 사용기술: Objective-C, Swift
-- 수행업무:
+- 대표 수행 업무:
   - 하이브리드 앱 개발
   - Push 기능 개발
   - 유지보수
