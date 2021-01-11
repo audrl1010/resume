@@ -1,7 +1,7 @@
 # 손명기
 
 - Email: audrl1010@naver.com
-- Github: https://github.com/audrl1010@naver.com
+- Github: https://github.com/audrl1010
 - Blog: https://medium.com/@audrl1010
 
 <br>
