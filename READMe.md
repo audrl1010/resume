@@ -41,7 +41,7 @@
 ## 회사 프로젝트
 
 ### 룩핀
-- 소개: 동영상 리뷰 쇼핑 커머스
+- 소개: 동영상 리뷰 쇼핑 커머스 (유저 450만)
 - <img src="images/lookpin_1.png" width="160"/> <img src="images/lookpin_2.png" width="160"/> <img src="images/lookpin_3.png" width="160"/> <img src="images/lookpin_4.png" width="160"/> <img src="images/lookpin_5.png" width="160"/> <img src="images/lookpin_6.png" width="160"/>
 - 소속: 레벨 13
 - 기간: 2021.08 ~ 현재
@@ -69,7 +69,7 @@
 
 ### 핀다
 
-- 소개: 핀테크 서비스 ()
+- 소개: 핀테크 서비스 (연 200조 대출)
 - <img src="images/finda_1.png" width="160"/> <img src="images/finda_2.png" width="160"/> <img src="images/finda_3.png" width="160"/> <img src="images/finda_4.png" width="160"/> <img src="images/finda_5.png" width="160"/>
 - 소속: 핀다
 - 기간: 2021.05 ~ 2021.08
