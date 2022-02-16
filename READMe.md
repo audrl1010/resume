@@ -41,7 +41,7 @@
 ## 회사 프로젝트
 
 ### 룩핀
-- 소개: 남자 쇼핑 플랫폼 (유저 450만)
+- 소개: 남자 쇼핑 플랫폼 (유저 550만)
 - <img src="images/lookpin_1.png" width="160"/> <img src="images/lookpin_2.png" width="160"/> <img src="images/lookpin_3.png" width="160"/> <img src="images/lookpin_4.png" width="160"/> <img src="images/lookpin_5.png" width="160"/> <img src="images/lookpin_6.png" width="160"/>
 - 소속: 레벨 13
 - 기간: 2021.08 ~ 현재
