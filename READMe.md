@@ -107,7 +107,7 @@
 - 소개: 동영상 리뷰 쇼핑 커머스
 - <img src="images/boltouch1.png" width="160"/> <img src="images/boltouch2.png" width="160"/> <img src="images/boltouch3.png" width="160"/> <img src="images/boltouch4.png" width="160"/> <img src="images/boltouch5.png" width="160"/>
 - 소속: 뷰링
-- 기간: 2020.05 ~ (현재)
+- 기간: 2020.05 ~ 2021.05
 - 역할: iOS 개발
 - 개발환경: Xcode
 - 사용기술: Swift, RxSwift, RIBs, Texture, ReactorKit, Firebase, Moya, R.swift, Xcodegen
