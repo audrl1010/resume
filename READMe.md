@@ -6,6 +6,26 @@
 
 <br>
 
+## 보유기술 및 사용가능 라이브러리
+
+- Swift
+- RxSwift, RxCocoa
+- Quick, Nimble
+- Architecture (MVC, MVVM, ReactorKit, RIBs)
+- Restful API Network(Alamofire, Moya)
+- Image downloading and caching(Kingfisher)
+- UIKIt, Texture, Autolayout(Code Base using SnapKit), Storyboard
+- xcodegen
+- github action CI CD with fastlane
+- firebase(analytics, adb, sms, push notification)
+- naver SDK(map, login)
+- kakao SDK(login)
+- facebook SDK(login)
+- google SDK(login, adb)
+- airbridge, appsflyer, channel talk (analytics tool)
+
+<br>
+
 ## 경력사항
 
 ### 레벨 13
@@ -313,22 +333,3 @@
 - Let`s Swift 2018 - ReactorKit에 대한 소식
 - Let`s Swift 2017 - RxSwift에 대한 소식
 
-<br>
-
-## 보유기술 및 사용가능 라이브러리
-
-- Swift
-- RxSwift, RxCocoa
-- Quick, Nimble
-- Architecture (MVC, MVVM, ReactorKit, RIBs)
-- Restful API Network(Alamofire, Moya)
-- Image downloading and caching(Kingfisher)
-- UIKIt, Texture, Autolayout(Code Base using SnapKit), Storyboard
-- xcodegen
-- github action CI CD with fastlane
-- firebase(analytics, adb, sms, push notification)
-- naver SDK(map, login)
-- kakao SDK(login)
-- facebook SDK(login)
-- google SDK(login, adb)
-- airbridge, appsflyer, channel talk (analytics tool)
