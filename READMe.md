@@ -53,7 +53,7 @@
   
   - github action CI CD 구축 (2022.09.06 ~ 09.24)
     - 기존 인증서 관리를 fastlane match로 변경
-    - github action을 통해 firebase app 배포, appstore 배포 구축
+    - github action + fastlane을 통해 firebase app 배포, appstore 배포 구축
     - 평균 1회 배포당 개발자 10분 생산성 향상(20회 배포 시 200분 가량 벌 수 있음)
     
   - 코디 옴니어스 필터 개발 (2022.07.15 ~ 09.01)
