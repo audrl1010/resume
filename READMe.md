@@ -319,13 +319,14 @@
 
 - Swift
 - RxSwift, RxCocoa
-- Architecture Framework(MVC, MVVM, ReactorKit, RIBs)
+- Quick, Nimble
+- Architecture (MVC, MVVM, ReactorKit, RIBs)
 - Restful API Network(Alamofire, Moya)
 - Image downloading and caching(Kingfisher)
-- Autolayout(Code Base using SnapKit), storyboard
-- UIKIt, Texture
-- WebKit
-- Firebase(analytics, adb, sms, push notification)
+- UIKIt, Texture, Autolayout(Code Base using SnapKit), Storyboard
+- xcodegen
+- github action CI CD with fastlane
+- firebase(analytics, adb, sms, push notification)
 - naver SDK(map, login)
 - kakao SDK(login)
 - facebook SDK(login)
