@@ -305,8 +305,8 @@
 <br>
 
 ## 참여한 세미나
-
-- Let`s Swift 판교 2차
+- AsyncSwift 2022 - 타다 RIB에 대한 소식
+- Let`s Swift 판교 2차 - autolayout, frame에 대한 소식
 - Let`s Swift 2019 - RIB에 대한 소식
 - Let`s Swift 2018 - ReactorKit에 대한 소식
 - Let`s Swift 2017 - RxSwift에 대한 소식
@@ -315,17 +315,17 @@
 
 ## 보유기술 및 사용가능 라이브러리
 
-- Swift & Objective-C
+- Swift
 - RxSwift, RxCocoa
-- Architecture Framework(MVC, MVVM, MVVM-C, ReactorKit, RIBs)
+- Architecture Framework(MVC, MVVM, ReactorKit, RIBs)
 - Restful API Network(Alamofire, Moya)
 - Image downloading and caching(Kingfisher)
-- Autolayout(Code Base)
-- SnapKit
-- Texture
+- Autolayout(Code Base using SnapKit), storyboard
+- UIKIt, Texture
 - WebKit
 - Firebase(analytics, adb, sms, push notification)
 - naver SDK(map, login)
 - kakao SDK(login)
 - facebook SDK(login)
 - google SDK(login, adb)
+- airbridge, appsflyer, channel talk (analytics tool)
