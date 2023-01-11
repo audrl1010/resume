@@ -323,6 +323,7 @@
 
 ## 참여한 세미나
 - AsyncSwift 2022 - 타다 RIB + 상태관리 redux, 29cm의 좋은 PR에 대한 소식
+- Let`s Swift 2022 - 멀티 모듈화에 대한 소식
 - Let`s Swift 판교 2차 - autolayout, frame에 대한 소식
 - Let`s Swift 2019 - RIB에 대한 소식
 - Let`s Swift 2018 - ReactorKit에 대한 소식
