@@ -64,8 +64,12 @@
 - 개발환경: Xcode
 - 사용기술: Swift, RxSwift, RIB, ReactorKit, Firebase, Xcodegen
 - 대표 수행 업무:
+
   - 아키텍처 개선 (기존 MVC -> RIB 변환) (2021.08 ~)
     - 현재 MVC -> RIBs로 80% 가량 변경
+
+  - Amplitude 작업 (2022.10 ~ 2022.12)
+    - 전체 450 Analytics log 개수 중 50% 가량 담당
 
   - github action CI CD 구축 (2022.09.06 ~ 09.24)
     - 기존 인증서 관리를 fastlane match로 변경
