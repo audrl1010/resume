@@ -29,31 +29,26 @@
 ## 경력사항
 
 ### 레벨 13
-- 기간: 2021.08 ~ 현재
+- 기간: 2021.08 ~ 현재 (1년 5개월)
 - 내용: 국내 최초 남자 쇼핑 플랫폼 룩핀 e-commerce 서비스 iOS 개발
 
 ### 핀다
-- 기간: 2021.05 ~ 2021.08
+- 기간: 2021.05 ~ 2021.08 (3개월)
 - 내용: 핀다 핀테크 서비스 iOS 개발
 
 ### 뷰링
 
-- 기간: 2020.05 ~ 2021.05
+- 기간: 2020.05 ~ 2021.05 (1년)
 - 내용: 볼터치 동영상 리뷰 e-commerce 서비스 iOS 개발
-
-### 누림
-
-- 기간: 2019.06 ~ 2020.05
-- 내용: iOS, React Native 개발 및 서비스
 
 ### 셀리
 
-- 기간: 2018.04 ~ 2019.06
-- 내용: iOS 개발 및 서비스
+- 기간: 2018.04 ~ 2020.05 (2년 1개월)
+- 내용: iOS, React Native 개발 및 서비스
 
 ### 그루기술
 
-- 기간: 2017.02 ~ 2018.02
+- 기간: 2017.02 ~ 2018.02 (1년)
 - 내용: iOS 개발 및 서비스
 
 <br>
@@ -197,7 +192,7 @@
 
 - 소개: 나만의 공간을 인테리어할 수 있는 앱, 인테리어 소품 배치, 공간의 도배 및 페인트 정보를 받을 수 있는 서비스
 - <img src="images/aimhome1.png" width="160"/> <img src="images/aimhome2.png" width="160"/> <img src="images/aimhome3.png" width="160"/> <img src="images/aimhome4.png" width="160"/> <img src="images/aimhome5.png" width="160"/>
-- 소속 : 누림
+- 소속 : 셀리
 - 기간: 2020.01 ~ 2020.03
 - 역할: iOS 개발
 - 개발환경: Xcode
@@ -223,7 +218,7 @@
 
 - 소개: 크로키 그리기 미술 교육 서비스
 - <img src="images/fasta1.png" width="160"/> <img src="images/fasta2.png" width="160"/> <img src="images/fasta3.png" width="160"/> <img src="images/fasta4.png" width="160"/> <img src="images/fasta5.png" width="160"/>
-- 소속 : 누림
+- 소속 : 셀리
 - 기간 : 2019.10 ~ 2019.12
 - 역할: React Native(iOS, Android) 앱 개발
 - 개발환경: Visual Studio Code
