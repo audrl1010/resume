@@ -298,6 +298,10 @@
 
 ## 오픈소스 활동
 
+### RIBsToDo
+- RIBs와 ReactorKit을 함께 사용하여 Todo 앱을 만든 프로젝트
+- https://github.com/RIBsTodo/RIBsTodo
+
 ### SlideMenuController
 
 - Slide Menu를 쉽게 만들 수 있는 라이브러리
